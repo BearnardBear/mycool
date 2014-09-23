@@ -1,0 +1,4 @@
+mycool
+======
+
+COOL files
